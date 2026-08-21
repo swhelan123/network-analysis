@@ -1,0 +1,111 @@
+station_id,name,capacity,area
+ST_0001,Smithfield North,42,Northside
+ST_0002,Parnell Square North,45,Northside
+ST_0003,Clonmel Street,40,Southside
+ST_0004,Avondale Road,40,Northside
+ST_0005,Mount Street Lower,38,Southside
+ST_0006,Christchurch Place,43,Southside
+ST_0007,Grantham Street,39,Southside
+ST_0008,Pearse Street,43,Southside
+ST_0009,York Street East,41,Southside
+ST_0010,Excise Walk,42,Northside
+ST_0011,Fitzwilliam Square West,39,Southside
+ST_0012,Portobello Road,36,Southside
+ST_0013,St. James Hospital (Central),34,Southside
+ST_0014,Parnell Street,46,Northside
+ST_0015,Frederick Street South,43,Southside
+ST_0016,Custom House,46,Northside
+ST_0017,Rathdown Road,39,Northside
+ST_0018,North Circular Road (O'Connell'S),42,Northside
+ST_0019,Hanover Quay,39,Southside
+ST_0020,Oliver Bond Street,40,Southside
+ST_0021,Collins Barracks Museum,39,Southside
+ST_0022,Brookfield Road,32,Southside
+ST_0023,Benson Street,38,Southside
+ST_0024,Earlsfort Terrace,39,Southside
+ST_0025,Golden Lane,42,Southside
+ST_0026,Deverell Place,46,Northside
+ST_0027,Wilton Terrace (Park),38,Southside
+ST_0028,John Street West,41,Southside
+ST_0029,Fenian Street,41,Southside
+ST_0030,Merrion Square South,40,Southside
+ST_0031,South Dock Road,37,Southside
+ST_0032,City Quay,43,Southside
+ST_0033,Exchequer Street,44,Southside
+ST_0034,The Point,37,Northside
+ST_0035,Broadstone,43,Northside
+ST_0036,Hatch Street,39,Southside
+ST_0037,Lime Street,42,Southside
+ST_0038,Charlemont Place,37,Southside
+ST_0039,Kilmainham Gaol,30,Southside
+ST_0040,Hardwicke Place,44,Northside
+ST_0041,Wolfe Tone Street,45,Northside
+ST_0042,Francis Street,41,Southside
+ST_0043,Greek Street,43,Southside
+ST_0044,Guild Street,41,Northside
+ST_0045,Herbert Place,38,Southside
+ST_0046,High Street,42,Southside
+ST_0047,Western Way,44,Northside
+ST_0048,Talbot Street,45,Northside
+ST_0049,Newman House,40,Southside
+ST_0050,Sir Patrick Dun'S,39,Southside
+ST_0051,New Central Bank,39,Southside
+ST_0052,Grangegorman Lower (Central),41,Northside
+ST_0053,King Street North,43,Northside
+ST_0054,Killarney Street,43,Northside
+ST_0055,Herbert Street,38,Southside
+ST_0056,Hanover Quay East,37,Southside
+ST_0057,Custom House Quay,44,Northside
+ST_0058,Molesworth Street,43,Southside
+ST_0059,Georges Quay,45,Southside
+ST_0060,Kilmainham Lane,31,Southside
+ST_0061,Mount Brown,34,Southside
+ST_0062,Market Street South,37,Southside
+ST_0063,Kevin Street,40,Southside
+ST_0064,Eccles Street East,43,Northside
+ST_0065,Grand Canal Dock,39,Southside
+ST_0066,Merrion Square East,40,Southside
+ST_0067,York Street West,42,Southside
+ST_0068,St. Stephen'S Green South,41,Southside
+ST_0069,Denmark Street Great,45,Northside
+ST_0070,Royal Hospital,35,Southside
+ST_0071,Heuston Station (Car Park),35,Southside
+ST_0072,Grangegorman Lower (North),41,Northside
+ST_0073,St. Stephen'S Green East,41,Southside
+ST_0074,Heuston Station (Central),35,Southside
+ST_0075,Townsend Street,45,Southside
+ST_0076,Georges Lane,41,Northside
+ST_0077,Phibsborough Road,42,Northside
+ST_0078,Eccles Street,41,Northside
+ST_0079,Portobello Harbour,36,Southside
+ST_0080,Mater Hospital,42,Northside
+ST_0081,Blessington Street,43,Northside
+ST_0082,James Street,38,Southside
+ST_0083,Mountjoy Square East,44,Northside
+ST_0084,Merrion Square West,41,Southside
+ST_0085,Convention Centre,40,Southside
+ST_0086,Hardwicke Street,44,Northside
+ST_0087,Parkgate Street,37,Northside
+ST_0088,Dame Street,44,Southside
+ST_0089,Heuston Bridge (South),37,Southside
+ST_0090,Cathal Brugha Street,47,Northside
+ST_0091,Sandwith Street,43,Southside
+ST_0092,Buckingham Street Lower,44,Northside
+ST_0093,Rothe Abbey,31,Southside
+ST_0094,Charleville Road,39,Northside
+ST_0095,Princes Street / O'Connell Street,48,Northside
+ST_0096,Upper Sherrard Street,43,Northside
+ST_0097,Fitzwilliam Square East,39,Southside
+ST_0098,Grattan Street,40,Southside
+ST_0099,St James Hospital (Luas),35,Southside
+ST_0100,Harcourt Terrace,38,Southside
+ST_0101,Bolton Street,45,Northside
+ST_0102,Jervis Street,46,Northside
+ST_0103,Ormond Quay Upper,44,Northside
+ST_0104,Grangegorman Lower (South),41,Northside
+ST_0105,Mountjoy Square West,44,Northside
+ST_0106,Wilton Terrace,37,Southside
+ST_0107,Emmet Road,30,Southside
+ST_0108,Heuston Bridge (North),37,Northside
+ST_0109,Leinster Street South,43,Southside
+ST_0110,Blackhall Place,40,Northside
